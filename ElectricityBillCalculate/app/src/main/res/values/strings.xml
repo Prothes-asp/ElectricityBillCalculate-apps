@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ElectricityBillCalculate</string>
+    <string name="notice_1">1. 0-50 units Bill = ৳231.65 [Per unit ৳4.633]</string>
+    <string name="notice_2">2. 0-75 units Bill = ৳75 [Per unit ৳5.26]</string>
+    <string name="notice_3">3. 76-200 units Bill = ৳900 [Per unit ৳7.20]</string>
+    <string name="notice_4">4. 201-300 units Bill = ৳759 [Per unit ৳7.59]</string>
+    <string name="notice_5">5. 301-400 units Bill = ৳802 [Per unit ৳8.02]</string>
+    <string name="notice_6">6. 401-600 units Bill = ৳2534 [Per unit ৳12.67]</string>
+    <string name="notice_7">7. Above 600 units Bill = [Per unit ৳14.61]</string>
+    <string name="notice_title">Notice : 29 Feb 2024</string>
+    <string name="title">Calculate Electricity Bill</string>
+    <string name="unit_box_title">Expense Unit Box...</string>
+    <string name="notice_8">8.Demand Charge ৳42.00</string>
+</resources>
